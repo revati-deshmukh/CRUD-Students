@@ -1,2 +1,2 @@
 # CRUD-Students
-Learning ReactJS and implementing CRUD operations
+Learning ReactJS and implementing Create, Update, Delete operations
